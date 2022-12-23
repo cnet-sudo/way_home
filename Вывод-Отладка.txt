@@ -1,0 +1,91 @@
+﻿"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\Простая игра SMFL.exe". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\sfml-system-d-2.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\sfml-window-d-2.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\sfml-graphics-d-2.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\freetyped.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\opengl32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\zlibd1.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\libpng16d.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\brotlidec.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\bz2d.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "I:\Project\Visual C++\SFML\Простая игра SMFL\Debug\brotlicommon.dll". Символы загружены.
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\glu32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\clbcatq.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll". 
+"Простая игра SMFL.exe" (Win32). Выгружено "C:\Windows\SysWOW64\AppXDeploymentClient.dll"
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_4f0927d2d65e905f\nvoglv32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\setupapi.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\wtsapi32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\msasn1.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptnet.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\crypt32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\devobj.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\wintrust.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". 
+Поток 0x3c2c завершился с кодом 0 (0x0).
+Поток 0xd28 завершился с кодом 0 (0x0).
+Поток 0x1d84 завершился с кодом 0 (0x0).
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\windows.storage.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\wldp.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXCore.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\nvspcap.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\profapi.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\dwmapi.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\powrprof.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\umpdc.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\winsta.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\dinput8.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\InputHost.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\propsys.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\ws2_32.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\hid.dll". 
+"Простая игра SMFL.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". 
+Поток 0x4e4 завершился с кодом 0 (0x0).
+Поток 0x2530 завершился с кодом 0 (0x0).
+Поток 0x164 завершился с кодом 0 (0x0).
+Поток 0xde0 завершился с кодом 0 (0x0).
+Поток 0x2adc завершился с кодом 0 (0x0).
+Поток 0x39b0 завершился с кодом 0 (0x0).
+Поток 0x306c завершился с кодом 0 (0x0).
+Поток 0x4d8 завершился с кодом 0 (0x0).
+Поток 0x1168 завершился с кодом 0 (0x0).
+Поток 0xf58 завершился с кодом 0 (0x0).
+Поток 0x2014 завершился с кодом 0 (0x0).
+Поток 0x4808 завершился с кодом 0 (0x0).
+Поток 0x1518 завершился с кодом 0 (0x0).
+Программа "[18852] Простая игра SMFL.exe" завершилась с кодом 0 (0x0).
