@@ -1,5 +1,7 @@
 # Путь домой
 
+**Русский** | [English](README_EN.md)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-SFML-00599C?logo=cplusplus)
 ![SFML](https://img.shields.io/badge/SFML-2.5.1-8CC445)
 ![Genre](https://img.shields.io/badge/genre-space%20arcade-191970)
